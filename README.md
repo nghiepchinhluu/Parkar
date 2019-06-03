@@ -3,7 +3,9 @@
 Idea: given a heatmap representing traffic in a parking lot, the program will find up to 3 available parking spots and show directions to them in real-time updating.
 
 Language: C/C++
+
 Tools: SDL library
+
 Algorithm: Dijkstra
 
 DEMO: Please look for the Parkar.mp4 file in the repository. It is a simulation of what's going on in a parking lot and how the program would continuously adjust and find new parking spots.
